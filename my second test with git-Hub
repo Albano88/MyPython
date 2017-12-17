@@ -1,0 +1,14 @@
+
+# my second work with Python lenguage
+
+# insert number with comand input()
+number = input('insert number')
+
+if number < 50:
+    print('number is low')
+elif number > 50:
+    print('number is High')
+else:
+print('number is strange')
+
+
