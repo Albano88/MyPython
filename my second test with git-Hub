@@ -17,3 +17,9 @@ print('this is modify for test the new Brench')
 
 
 print('provo ad inserire un altra modifica')
+
+
+
+print('un brench è una copia del progetto dove vai a modificare il progetto ')
+print('fase successiva fai la richiesta di pull e per richiedere di inserire la modifica in master ')
+print('dopo nella richiesta di pull fai un marge con il master edopo delete brench')
